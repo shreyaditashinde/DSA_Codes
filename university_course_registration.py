@@ -60,9 +60,5 @@ courses.insert("AI")
 courses.display()
 
 courses.delete("Java")
-
-# Insert Cloud Computing
 courses.insert("Cloud Computing")
-
-# Display updated course list
 courses.display()
